@@ -2,7 +2,7 @@
 
 This is a small app using react technology and built by flux and redux architecture
 
-### clone repo
+### clone repository
 
 - $ `git clone git@github.com:johnnynode/react-flux-redux-todolist.git --depth 1`
 
