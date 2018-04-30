@@ -1,1 +1,1 @@
-# react-flux-redux-todomvc
+# react-flux-redux-todolist
