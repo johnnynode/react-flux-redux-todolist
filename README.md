@@ -10,10 +10,10 @@ This is a small app using react technology and built by flux and redux architect
 
 - entry into flux-version folder : $ `cd flux-version`
 - install : $ `yarn install` or `npm i` or `cnpm i`
-- and then, follow the package.json's scripts, and do what you want!
+- and then, follow the package.json's scripts, and do whatever you want!
 
 ### redux-version
 
 - entry into redux-version folder : $ `cd redux-version`
 - install : $ `yarn install` or `npm i` or `cnpm i`
-- and then, follow the package.json's scripts, and do what you want!
+- and then, follow the package.json's scripts, and do whatever you want!
